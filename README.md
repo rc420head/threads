@@ -11,3 +11,5 @@ m7gsm
 http://forum.xda-developers.com/showthread.php?t=2661531
 i9300
 http://forum.xda-developers.com/galaxy-s3/development/rom-official-candykat-1-5-8-t2850466
+m4
+http://forum.xda-developers.com/htc-one-mini/orig-development/rom-t2825888/post54353562#post54353562
