@@ -94,16 +94,3 @@ Sources:[/B][/CENTER][/U]
 
 [URL="https://plus.google.com/communities/108100228397827258211"][CENTER][IMG]https://db.tt/ZH7sJ9Dh[/IMG][/CENTER][/URL]
 
-[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
-[SIZE=3][B]CandyKat, ROM for the HTC One Mini[/B][/SIZE]
-
-[B][U]Contributors[/U][/B]
-[URL="http://forum.xda-developers.com/member.php?u=4815490"]tr1gg3r84[/URL], [URL="http://forum.xda-developers.com/member.php?u=3947779"]mar5hal[/URL], [URL="http://forum.xda-developers.com/member.php?u=5020670"]matthew0776 [/URL]
-[B]ROM OS Version:[/B] 4.4.x KitKat
-[B]ROM Kernel:[/B] Linux 3.4.x
-
-[B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
-
-[B]Created[/B] 2014-07-23
-[B]Last Updated[/B] 2014-09-05
